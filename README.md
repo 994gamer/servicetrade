@@ -3,8 +3,8 @@ Service Trade Scripts
 
 A set of scripts that increase productivity by providing custom functions.
 
-Accordion Layout Organizer
+Accordion Layout Organizer-
 Let you reorder and hide the accordion in the job ticket page.
 
-Contract Alert
+Contract Alert-
 Popup and pulses incorrect contract. Can we customized in the modifier section of the code.
